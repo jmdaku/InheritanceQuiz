@@ -1,7 +1,7 @@
 package org.example;
 
 public class Quiz {
-TrueFalse TF1 = new TrueFalse("Are cats animals?",true, [true, false]);
+TrueFalse TF1 = new TrueFalse("Are cats animals?",true,TrueFalse);
 
 
 
